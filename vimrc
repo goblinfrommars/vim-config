@@ -33,6 +33,7 @@ Plug 'sheerun/vim-polyglot'
 Plug 'alvan/vim-closetag'
 call plug#end()
 
+" I ADD COMMENT
 
 " NERDTree Commands
 nnoremap <leader>n :NERDTreeFocus<CR>

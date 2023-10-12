@@ -33,7 +33,6 @@ Plug 'sheerun/vim-polyglot'
 Plug 'alvan/vim-closetag'
 call plug#end()
 
-" Load Prettier
 
 " NERDTree Commands
 nnoremap <leader>n :NERDTreeFocus<CR>
